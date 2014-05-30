@@ -1,11 +1,3 @@
-*, html, body {
-	margin:0;
-	padding:0;
-}
-.akkordian {
-	position:absolute;
-	width:100%;
-}
 .akkord {
 	float:left;
 	height:300px;
@@ -15,4 +7,3 @@
 	-o-transition: 0.2s;
 	transition: 0.2s;
 }
-/* who needs a reset? */
